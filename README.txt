@@ -1,0 +1,1 @@
+This repository will contain the JMeter examples created by Pragmatic Testers 
